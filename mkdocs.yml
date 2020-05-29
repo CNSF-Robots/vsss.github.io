@@ -1,0 +1,10 @@
+site_name: Robot Soccer Simulator Docs
+theme:
+    favicon: assets/images/favicon.svg
+    logo: assets/images/logo.svg
+    name: material
+    palette:
+        primary: white
+        accent: indigo
+    repo_name: squidfunk/mkdocs-material
+    repo_url: https://github.com/CNSF-Robots/robot-soccer-simulator
